@@ -1,0 +1,18 @@
+<html>
+<head>
+<title> Duc sivu</title>
+
+<style>
+body {
+font-family: Arial, sans-serif;}
+</style>
+</head>
+
+<body>
+<h1>Teastaan Githubia</h1>
+<p>Luotiin tunnus ja repository Githubiin.</p>
+
+
+
+</body>
+</html>
